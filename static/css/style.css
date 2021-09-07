@@ -1,0 +1,128 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
+}
+#title{
+    background-color: #05C0D0;
+    color: white;
+    text-align: left;
+}
+
+#title .container-fluid{
+    padding: 3% 5% 3%
+}
+
+.title-img{
+    width: 300px;
+    height: 300px;
+    right: 20%;
+
+}
+
+.big-heading{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size:5rem
+}
+
+.img-logo{
+    width: 100px;
+    height: 100px;
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+lang-icons{
+    padding: 5% 13% 15% 0;
+}
+
+#skills{
+    padding: 5% 7% 5%
+}
+
+.skill-title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    padding: 0.5rem;
+
+
+}
+
+.skill-content{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #565656
+}
+
+#personal_skills{
+    background-color:#32ACB7;
+    color: white;
+    padding: 5% 7% 5%;
+
+}
+.bottom-line {
+  height: 2px;
+  width: 5rem;
+  background: #D0F3F6;
+  display: block;
+  margin: 0 auto 1rem auto; }
+
+.text-left{
+    text-align: left
+}
+
+.text-right{
+    text-align: right
+}
+
+#main-footer{
+    background-color:black;
+    color: white;
+    padding: 2% 3% 2%;
+}
+
+.img-testimonial{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 1.5rem;
+
+}
+
+#contact-me{
+    background-color:#32ACB7;
+    color: white;
+    padding: 5% 7% 5%;
+}
+
+
+.social .fab{
+    padding: 0.5rem;
+    border-radius: 100%;
+}
+
+.social .fab:hover{
+    background-color:#32ACB7
+}
+
+.section-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    line-height: 1.5;
+    font-size: 2.5rem;
+}
+
+.social-link{
+    color: white
+}
+
+.social-link .fab:hover{
+    background-color:#32ACB7
+}
